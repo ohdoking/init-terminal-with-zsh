@@ -25,11 +25,11 @@ Oh-My-Zsh is an open source, community-driven framework for managing your ZSH co
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 ```
 
-### Manage Plugins
+## Manage Plugins
 
 Oh My Zsh comes bundled with plugins, which allow you to take advantage of functionality of many sorts to your shell just by enabling them.
 
-check (this)[!https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins]
+check [this](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins)
 
 ```
 vi ~/.zshrc
